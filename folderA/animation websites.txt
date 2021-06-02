@@ -1,0 +1,30 @@
+(1) shutterstock.com
+
+(2) vectorstock.com
+
+(3) itch.io
+
+
+To compress images:
+
+webresizer.com
+
+
+To change the backgrounds to be trasnparent:
+
+(1) transparent.imageonline.co
+
+(2) photoscissors.com
+
+
+To cut a single image from a sheet:
+
+(1) ezgif.com/sprite-cutter
+
+
+
+GitHub alike sites for game ideas:
+
+codepen.io
+
+thecodingtrain.com

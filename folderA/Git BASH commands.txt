@@ -1,0 +1,12 @@
+git --version
+git config
+pwd
+ls
+cd
+mkdir (to create a new folder)
+git clone (LINK)
+git commit -m ''
+git status
+git init
+git push
+git add
